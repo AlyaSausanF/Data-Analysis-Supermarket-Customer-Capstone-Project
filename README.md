@@ -1,6 +1,8 @@
 # Supermarkets Customer Shopping Preference Characteristics
 Purwadhika Data Science Capstone Project Module 2
 
+[Presentation deck link](https://www.canva.com/design/DAGoJxt7RQw/b6sjnj_fY0ki7iMDLJsxKA/view?utm_content=DAGoJxt7RQw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha0f4bd9d76)
+
 **Overview**
 
 This project analyzes customer shopping preferences at a supermarket to help stakeholders understand customer behavior in an era with diverse shopping methods. The goal is to identify actionable insights and recommend strategies to increase customer engagement and improve their shopping experience.
