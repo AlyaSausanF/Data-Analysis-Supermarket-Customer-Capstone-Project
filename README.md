@@ -1,7 +1,7 @@
 # Supermarkets Customer Shopping Preference Characteristics
 Purwadhika Data Science Capstone Project Module 2
 
-[Presentation deck link](https://www.canva.com/design/DAGoJxt7RQw/b6sjnj_fY0ki7iMDLJsxKA/view?utm_content=DAGoJxt7RQw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha0f4bd9d76)
+[Presentation deck link](https://www.canva.com/design/DAGY3HGGEq0/c0t_F-52mJ6P95W5ErQqUQ/view?utm_content=DAGY3HGGEq0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha469e2fc61)
 
 **Overview**
 
@@ -55,7 +55,7 @@ Project Workflow
        
 **Results**
 
-- Visualization: A summary of key findings is presented in the [PowerPoint Presentation](https://www.canva.com/design/DAGoJxt7RQw/b6sjnj_fY0ki7iMDLJsxKA/view?utm_content=DAGoJxt7RQw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha0f4bd9d76)
+- Visualization: A summary of key findings is presented in the [PowerPoint Presentation](https://www.canva.com/design/DAGY3HGGEq0/c0t_F-52mJ6P95W5ErQqUQ/view?utm_content=DAGY3HGGEq0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha469e2fc61)
 - Key Outcomes:
   - Potential to increase web preference adoption using targeted promotions.
   - A clear understanding of customer behavior for better strategy formulation.
