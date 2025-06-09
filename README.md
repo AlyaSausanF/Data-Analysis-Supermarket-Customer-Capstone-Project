@@ -55,7 +55,7 @@ Project Workflow
        
 **Results**
 
-- Visualization: A summary of key findings is presented in the [PowerPoint Presentation](https://bit.ly/4aatjbR)
+- Visualization: A summary of key findings is presented in the [PowerPoint Presentation](https://www.canva.com/design/DAGoJxt7RQw/b6sjnj_fY0ki7iMDLJsxKA/view?utm_content=DAGoJxt7RQw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha0f4bd9d76)
 - Key Outcomes:
   - Potential to increase web preference adoption using targeted promotions.
   - A clear understanding of customer behavior for better strategy formulation.
